@@ -1,4 +1,4 @@
-<h2 align="center">  LearningTS </h1>
+<h2 align="center">  Learning TS </h1>
 
 <p align="center" style="color:gray"> Udemy 강의 중 [Typescript :기초부터 실전형 프로젝트까지 with React + NodeJS]를 수강하려고 합니다.</p>
 
