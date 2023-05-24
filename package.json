@@ -2,7 +2,7 @@
   "name": "learningts",
   "version": "1.0.0",
   "description": "<h2 align=\"center\">  Learning TS </h1>",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lite-server"
