@@ -8,18 +8,18 @@
   
 </p>
 <hr></hr>
-<h3 align="center" >  Core Types(Typescript의 핵심 자료형에 대한 학습) </h3>
+<h3 align="center" >  Other Types(Typescript의 핵심 타입 외 다른 타입들) </h3>
 
 <ul>
-  <li>number</li>
-  <li>string</li>
-  <li>boolean</li>
-  <li>object</li>
-  <li>Array</li>
-  <li>Tuple</li>
-  <li>Enum</li>
-  <li>Any</li>
-</ul>
+  <li>union</li>
+  <li>literal</li>
+  <li>type alias</li>
+  <li>function(return type)</li>
+  <li>Function type</li>
+  <li>Callback function type</li>
+  <li>unknown type</li>
+  <li>never type</li>
 
+</ul>
 
 <p align="center" style="color:gray">학습 기록용 velog: https://velog.io/@quswlstkd88/series/Typescript-%ED%95%99%EC%8A%B5</p>
