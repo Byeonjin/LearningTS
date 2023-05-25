@@ -8,18 +8,8 @@
   
 </p>
 <hr></hr>
-<h3 align="center" >  Other Types(Typescript의 핵심 타입 외 다른 타입들) </h3>
+<h3 align="center" > Typescript 컴파일러 및 구성(config) </h3>
 
-<ul>
-  <li>union</li>
-  <li>literal</li>
-  <li>type alias</li>
-  <li>function(return type)</li>
-  <li>Function type</li>
-  <li>Callback function type</li>
-  <li>unknown type</li>
-  <li>never type</li>
-
-</ul>
+TS 프로젝트의 초기화 및 tsconfig.json 등 컴파일러와 구성파일에 대해 학습한다.
 
 <p align="center" style="color:gray">학습 기록용 velog: https://velog.io/@quswlstkd88/series/Typescript-%ED%95%99%EC%8A%B5</p>
