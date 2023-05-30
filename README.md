@@ -12,4 +12,16 @@
 
 <p align="center">TS 클래스와 인터페이스에 대해 학습한다.</p>
 
+<ul>
+<li>Class</li>
+<li>Object</li>
+<li>Class의 선언과 instance 생성</li>
+<li>ES5와 ES6에서의 Class</li>
+<li>this</li>
+<li>접근제어자 private</li>
+<li>약식 초기화</li>
+<li>readonly modifier</li>
+
+</ul>
+
 <p align="center" style="color:gray">학습 기록용 velog: https://velog.io/@quswlstkd88/series/Typescript-%ED%95%99%EC%8A%B5</p>
