@@ -8,9 +8,8 @@
   
 </p>
 <hr></hr>
-<h3 align="center" > Typescript 컴파일러 및 구성(config) </h3>
+<h3 align="center" > Typescript Class and Interface </h3>
 
-<p align="center">TS 프로젝트의 초기화 및 tsconfig.json 등 컴파일러와 구성파일에 대해 학습한다.</p>
-
+<p align="center">TS 클래스와 인터페이스에 대해 학습한다.</p>
 
 <p align="center" style="color:gray">학습 기록용 velog: https://velog.io/@quswlstkd88/series/Typescript-%ED%95%99%EC%8A%B5</p>
