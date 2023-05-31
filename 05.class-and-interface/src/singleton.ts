@@ -1,4 +1,4 @@
-class Human {
+/* class Human {
   constructor(protected name: string, protected age: number) {}
 }
 
@@ -21,3 +21,4 @@ const zz1 = Zzheck.getZzheck();
 const zz2 = Zzheck.getZzheck();
 
 console.log(zz1, zz2, "is same! just one Instance!");
+ */
