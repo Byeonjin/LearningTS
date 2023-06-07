@@ -8,19 +8,17 @@
   
 </p>
 <hr></hr>
-<h3 align="center" > Typescript Class and Interface </h3>
+<h3 align="center" > Typescript Generics </h3>
 
-<p align="center">TS 클래스와 인터페이스에 대해 학습한다.</p>
+<p align="center">TS Generics에 대해 학습한다.</p>
 
 <ul>
-<li>Class</li>
-<li>Object</li>
-<li>Class의 선언과 instance 생성</li>
-<li>ES5와 ES6에서의 Class</li>
-<li>this</li>
-<li>접근제어자 private</li>
-<li>약식 초기화</li>
-<li>readonly modifier</li>
+
+<li> Generic Functions </li>
+<li> Generic Class </li>
+<li> Constraints </li>
+<li> generic utility type </li>
+<li> generic types vs. union type </li>
 
 </ul>
 
